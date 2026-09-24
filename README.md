@@ -1,4 +1,4 @@
-# ERC-223 Token — Web3Bridge Eviction Test Part 2
+# ERC-223 Token 
 
 ## What Was Implemented
 
